@@ -10,3 +10,5 @@ The steps are as follows:
 6. Fetch updates and sync GitLab commits on top of GitHub commits. Then push to GitLab.
 
 This Update was written as part of step 2.
+
+This commit was created on the old repo after mirroring.
